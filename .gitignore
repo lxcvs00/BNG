@@ -1,0 +1,9 @@
+# Dependências do Composer
+/vendor/
+
+# Arquivos de configuração do Composer
+/composer.lock
+
+# Arquivos temporários ou de cache
+*.log
+*.cache
